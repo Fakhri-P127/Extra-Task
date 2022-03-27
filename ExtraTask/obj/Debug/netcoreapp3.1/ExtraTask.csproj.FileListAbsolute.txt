@@ -1,0 +1,14 @@
+C:\Users\efend\source\repos\ExtraTask\ExtraTask\bin\Debug\netcoreapp3.1\ExtraTask.exe
+C:\Users\efend\source\repos\ExtraTask\ExtraTask\bin\Debug\netcoreapp3.1\ExtraTask.deps.json
+C:\Users\efend\source\repos\ExtraTask\ExtraTask\bin\Debug\netcoreapp3.1\ExtraTask.runtimeconfig.json
+C:\Users\efend\source\repos\ExtraTask\ExtraTask\bin\Debug\netcoreapp3.1\ExtraTask.runtimeconfig.dev.json
+C:\Users\efend\source\repos\ExtraTask\ExtraTask\bin\Debug\netcoreapp3.1\ExtraTask.dll
+C:\Users\efend\source\repos\ExtraTask\ExtraTask\bin\Debug\netcoreapp3.1\ExtraTask.pdb
+C:\Users\efend\source\repos\ExtraTask\ExtraTask\obj\Debug\netcoreapp3.1\ExtraTask.csproj.AssemblyReference.cache
+C:\Users\efend\source\repos\ExtraTask\ExtraTask\obj\Debug\netcoreapp3.1\ExtraTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\efend\source\repos\ExtraTask\ExtraTask\obj\Debug\netcoreapp3.1\ExtraTask.AssemblyInfoInputs.cache
+C:\Users\efend\source\repos\ExtraTask\ExtraTask\obj\Debug\netcoreapp3.1\ExtraTask.AssemblyInfo.cs
+C:\Users\efend\source\repos\ExtraTask\ExtraTask\obj\Debug\netcoreapp3.1\ExtraTask.csproj.CoreCompileInputs.cache
+C:\Users\efend\source\repos\ExtraTask\ExtraTask\obj\Debug\netcoreapp3.1\ExtraTask.dll
+C:\Users\efend\source\repos\ExtraTask\ExtraTask\obj\Debug\netcoreapp3.1\ExtraTask.pdb
+C:\Users\efend\source\repos\ExtraTask\ExtraTask\obj\Debug\netcoreapp3.1\ExtraTask.genruntimeconfig.cache
